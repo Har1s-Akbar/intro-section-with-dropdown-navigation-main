@@ -98,7 +98,7 @@ function Nav() {
                 <a className='font-semibold transition ease-in-out text-gray-400 hover:text-black' href='/'>
                   Company
                 </a>
-                <img src={arrow} alt="arrow" className='h-2' />
+                <img src={arrow} alt="arrow" className='h-2 ml-1' />
                 </div>
               </Dropdown>
               <a href='/' className='font-semibold mx-5 transition ease-in-out text-gray-400 hover:text-black'>
